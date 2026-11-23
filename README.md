@@ -3,15 +3,11 @@
 
 # 부기의 마법 포션 상점 (Boogie's Magic Potion Store)
 
-> **90초 제한 시간 내에 마법 물과 4종의 재료를 정밀한 타이밍에 조합해 손님에게 판매하는 Unity 2D 타임 매니지먼트 아케이드 게임**  
-> *(고전 플래시 게임 '슈의 라면가게'의 타이밍·멀티태스킹 메커니즘 오마주 / Team ODD: 균형 3일 스프린트 프로젝트)*
+**90초 제한 시간 내에 마법 물과 4종의 재료를 정밀한 타이밍에 조합해 손님에게 판매하는 Unity 2D 타임 매니지먼트 아케이드 게임**  
+*(고전 플래시 게임 '슈의 라면가게'오마주 / Team ODD 3일 게임잼)*
 
-![Unity](https://img.shields.io/badge/Unity-6000.0.60f1_(LTS)-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-WebGL_%26_PC-5586A4?style=flat-square)
+**Original Team Repository (전체 소스 코드 및 커밋 내역)**: **[https://github.com/TeamODD/BugiPotionStore](https://github.com/TeamODD/BugiPotionStore)**  
 
-> **Original Team Repository (전체 소스 코드 및 커밋 내역)**: **[https://github.com/TeamODD/BugiPotionStore](https://github.com/TeamODD/BugiPotionStore)**  
-> *(본 레포지토리는 개인 포트폴리오 아카이빙 및 담당 파트 정리를 위해 작성된 README 페이지입니다.)*
 
 ---
 
